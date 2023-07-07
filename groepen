@@ -1,0 +1,8 @@
+We kunnen er voor dan kiezen om groepen casus 1 en andere groepen met casus 2  uit te laten werken. Kan ook natuurlijk iedereen casus 1 en later casus 2 uiwerken. Met uitwerken zou ik ook graag zien de dims en facts met de enkele (voorbeeld)waarde van de beschikbare data. Ik heb groepjes gemaakt, zodat in iedere groep wel wat ervaring zit.
+Later kunnen we klassikaal bediscussiëren of het wenselijk is de modellen in één model te gieten. En wat nu als andere HR rapportages als verlof, formatie, mobiliteit toegevoegd worden, wat zijn dan de afwegingen om dit in hetzelfde model te doen. 
+Er zijn immers veel dezelfde dimensies, uiteraard andere feiten.
+
+Groep 1           Groep 2           Groep 3           Groep 4
+Heidi               Harm               Dennis             Anna
+Ebbo                Chloe               Imke                Paul
+Jan-Willem     Stephan           Rob                  Ebbo
